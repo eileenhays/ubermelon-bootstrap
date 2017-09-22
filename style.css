@@ -1,0 +1,22 @@
+.main {
+    text-align: center;
+}
+
+.features {
+    text-align: center;
+}
+
+.navbar {
+    background-color: #A0d468;
+}
+
+.navbar-header {
+    position: relative;
+}
+
+#logo {
+    height: 35px;
+    position: absolute;
+    top: 50%;
+/*    transform: translateY(-50%);
+*/}
